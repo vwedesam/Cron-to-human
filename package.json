@@ -1,0 +1,21 @@
+{
+  "name": "cron-to-human",
+  "version": "1.0.0",
+  "description": "A Javascript that Convert Cron-tab Instructions Format (* * * * * *) to human readable text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cron-to-human", "cron-instruction", "cron-tab", "crontab-converter"],
+  "author": "vwede Sam <eshemiedomisam@yahoo.com> (https://github.com/vwedesam)",
+  "homepage": "https://github.com/vwedesam/Cron-to-human",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vwedesam/Cron-to-human.git",
+    "directory": "packages/react-dom"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cron-parser": "^3.3.0"
+  }
+}
