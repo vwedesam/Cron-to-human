@@ -101,5 +101,5 @@ with days of the week and months
 
 ```
 
-## LINCENSE
+## License
 ### MIT
