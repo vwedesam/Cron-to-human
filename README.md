@@ -9,7 +9,7 @@ Typescript <= 4.2
 ## #Install
 
 ``` js
-    npm install 
+    npm install cron-to-human
 ```
 
 ## #Usage
