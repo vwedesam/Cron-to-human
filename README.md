@@ -27,7 +27,7 @@ Simple Intruction
     }
       
 ```
-Instruction that incude day of the week
+with days of the week
 
 ``` js
     const toHuman = require('cron-to-human');
@@ -40,7 +40,7 @@ Instruction that incude day of the week
     }
 
 ```
-Instruction that include day of the week and months
+with days of the week and months
 ``` js
     const toHuman = require('cron-to-human');
 
@@ -86,7 +86,7 @@ Instruction that include day of the week and months
 
     const config = {
         abbr: false,
-        parser:{
+        parser: {
             currentDate: '2016-03-27 00:00:01',
             tz: 'Europe/Athens'
         }
