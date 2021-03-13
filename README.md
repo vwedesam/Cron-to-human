@@ -66,18 +66,19 @@ with days of the week and months
 
 ## Options/Config
 
->   this package uses __[cron-parser](https://www.npmjs.com/package/cron-parser)__ internally for parsing and manipulating cron-tab instructions. __It includes support for timezones and DST transitions.__ 
+>   this package uses __[Cron-parser](https://www.npmjs.com/package/cron-parser)__ internally for parsing and manipulating cron-tab instructions. __It includes support for timezones and DST transitions.__ 
  
  * abr
  * cron-parser Options
 
- ### abbr
-      type: Boolean
-      description: use abbreciation for Months and days of the week
-      default: true
+ ### #abbr
+ 
+  * type: Boolean
+  * description: use abbreciation for Months and days of the week
+  * default: true
       
- ### cron-parser Options
-     for this option check out Cron-parser for more options
+ ### #cron-parser Options
+   * for this option check out [cron-parser](https://www.npmjs.com/package/cron-parser) for more options
       
 ### example with Config options
 
